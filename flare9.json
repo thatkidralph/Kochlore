@@ -1,0 +1,133 @@
+{
+ "name": "Koch Foundation",
+ "children": [
+  {
+   "name": "Universities",
+   "children": [
+    {
+      "name": "All",
+      "children": [
+      {"name": "Acton Business School", "size": 3938, "value": 20},
+      {"name": "Agora Institute", "size": 5000},
+      {"name": "Albany State University Foundation", "size": 3938},
+      {"name": "Allegheny College", "size": 3938},
+      {"name": "Alma College", "size": 3938},
+      {"name": "American University", "size": 3938},
+      {"name": "Andrew College", "size": 3938},
+      {"name": "Appalachian State University", "size": 3938},
+      {"name": "Arizona Christian University", "size": 3938},
+      {"name": "Arizona State University Foundation", "size": 3938},
+      {"name": "Arkansas Tech University", "size": 3938},
+      {"name": "Ashland University", "size": 3938},
+      {"name": "Assumption College", "size": 3938},
+      {"name": "Athens State University", "size": 3938},
+      {"name": "Auburn University", "size": 3938},
+      {"name": "Augustana College", "size": 3938},
+      {"name": "Austin Peay State University", "size": 3938},
+      {"name": "Ave Maria University", "size": 3938},
+      {"name": "Azusa Pacific University", "size": 3938}
+     ]
+     },
+    {
+      "name": "George Mason University",
+      "children": [
+        {
+          "name": "Standalone Programs",
+          "children": [
+            {
+            "name": "Mercatus Center",
+            "children": [
+              {"name": "Project for the Study of American Capitalism"},
+              {"name": "Technology Policy Project"},
+              {"name": "State and Local Policy Project"},
+              {"name": "Spending and Budget Initiative"},
+              {"name": "Regulatory Studies Program"},
+              {"name": "Program on the American Economy and Globalization"},
+              {"name": "Program on Monetary Policy"},
+              {"name": "Financial Markets Working Group"},
+              {"name": "Social Change Project"},
+              {"name": "Gulf Coast Recovery Project"},
+              {"name": "Government Accountability Project"},
+              {"name": "Global Prosperity Initiative"},
+              {"name": "Enterprise Africa"}
+            ]
+            },
+          {"name": "Institute for Humane Studies"},
+          {"name": "Center for the Study of Public Choice"}  
+           ]
+         },
+        {
+          "name": "Departments/Colleges",
+          "children": [
+          {
+            "name": "Department of Economics",
+            "children": [
+          {"name": "Center for Economic Education"}
+          ]
+          },
+          {
+           "name": "School of Law",
+           "children": [
+          {"name": "Searle Civil Justice Institute"},
+          {"name": "Manne Program in Law & Economic Studies"},
+          {"name": "Attorneys General Education Program"}  
+            ]
+          },
+          {"name": "School of Public Policy"}  
+           ]
+         }   
+      ]
+      },
+    {
+      "name": "Florida State University",
+      "children": [        {
+          "name": "Standalone Programs",
+          "children": [
+          {"name": "Hilton Center"},
+          {"name": "Project on Accountable Justice"}
+           ]
+         },
+        {
+          "name": "Departments/Colleges",
+          "children": [
+          {
+            "name": "Department of Economics",
+            "children": [
+          {"name": "Study of Political Economy and Free Enterprise"},
+          {"name": "Excellence in Economic Education"}
+          ]
+          },
+          {"name": "College of Business"},
+          {"name": "School of Public Policy"}  
+           ]
+         }   
+      ]
+      }
+    
+  ]
+  }, 
+{
+"name": "Political Groups",
+"children": [
+  {
+   "name": "Think Tanks",
+   "children": [
+{"name": " Buckeye Institute for Public Policy Solutions ", "size": 3938},		
+{"name": " James Madison Institute ", "size": 3938},		
+{"name": " Pacific Research Institute ", "size": 3938},		
+{"name": " Texas Public Policy Foundation ", "size": 3938}				
+    ]
+  },
+  {
+  "name": "Front Groups",
+   "children": [
+    {"name": "Freedom Partners Chamber of Commerce", "size": 3938},
+    {"name": "Americans for Prosperity", "size": 3938},
+    {"name": "Club for Growth", "size": 3938},
+    {"name": "60 Plus Association", "size": 3938}
+    ]
+  }
+  ]
+}
+]
+} 
